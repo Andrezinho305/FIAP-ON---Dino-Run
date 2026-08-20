@@ -104,5 +104,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54366c67c7031fd46a3f3dcdbf3d4959, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Cactus
-  speed: 10
+  speed: 9
   positionXtoDestroy: -12
